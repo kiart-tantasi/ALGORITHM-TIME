@@ -62,4 +62,4 @@ const testingArray =
 console.log(riverSizes(testingArray));
 
 
-// command line 'node riverSizes.js' to see the result
+// run node to see the result

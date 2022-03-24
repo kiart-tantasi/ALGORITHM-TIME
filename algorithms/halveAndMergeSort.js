@@ -54,4 +54,4 @@ function mergeSort(array) {
 
 console.log("MERGE-SORTED:", mergeSort(arr));
 
-// 'node halveAndMergeSort.js' to see the result
+// run node to see the result

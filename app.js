@@ -3,3 +3,5 @@
 // ALL THE SOLUTIONS HERE ARE MADE BY ME. I AM NOT ALLOWED TO SHARE ALGOEXPERT'S SOLUTIONS.
 
 // NAME OF THE QUESTIONS ARE ALREADY PUBLISHED IN ALGOEXPERT WEBSITE: https://www.algoexpert.io/questions
+
+// *** All algorithms are in the folder 'algorithms'.

@@ -54,4 +54,4 @@ const testingArray = [ 2, 3, 5, 7, 2, 3, 6, 9, 6, 3, 2, 8, 9, 0];
 
 console.log("LONGST PEAK:", findLengthOfLongestPeak(testingArray));
 
-// command line 'node peak.js' to see the result
+// run node to see the result

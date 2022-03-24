@@ -31,7 +31,7 @@ function createBstFromArray(array, tree = null) {
 const array = [5,3,1,2,4,8,7,6,9]; // root:5, left: 3 1 2 4, right: 8 7 6 9
 console.log(createBstFromArray(array));
 
-// "node recreateBst.js" to see the result
+// run node to see the result
 // recommended to see this in console of browser
 
 //         5

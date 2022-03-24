@@ -43,4 +43,4 @@ const testingArray =
 
 console.log(getNumbersFromSpiralArrays(testingArray));
 
-// command line 'node spiral.js' to see the result
+// run node to see the result
