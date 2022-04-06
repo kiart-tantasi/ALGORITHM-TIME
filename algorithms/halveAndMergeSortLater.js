@@ -44,7 +44,7 @@ function sorter(array) {
 
 const arr = [11, 6, 5, 3, 4, 12, 15, 10, 7, 1, 13, 2, 8, 14, 9];
 
-function mergeSort(array) {
+function halveAndMergeSortLater(array) {
     if (array.length === 1)
         return array;
     const halved = halve(array);
@@ -52,6 +52,6 @@ function mergeSort(array) {
     return sorter(halved);
 }
 
-console.log("MERGE-SORTED:", mergeSort(arr));
+console.log("MERGE-SORTED:", halveAndMergeSortLater(arr));
 
 // run node to see the result
